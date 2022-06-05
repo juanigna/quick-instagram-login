@@ -1,0 +1,38 @@
+body {
+    min-height: 100vh;
+    background-color: #fafafa;
+}
+
+.top__login {
+    max-width: 400px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 2em;
+}
+.main {
+    height: 100vh;
+}
+.facebook__text {
+    margin: 0;
+}
+.facebook-logo {
+    margin-right: 0.5em;
+}
+.forgot {
+    text-decoration: none;
+    margin: 1em 0;
+}
+.bottom__login {
+    max-width: 400px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+}
+.registro {
+    text-decoration: none;
+}
+.icon {
+    width: 150px;
+}
+.links {
+    max-width: 400px;
+}
